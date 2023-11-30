@@ -13,5 +13,8 @@ html, body {
     display: block; /* Remove default inline styles */
     margin: auto;
     background-color: #f0f0f0; /* Set a background color */
+
+    height: 95%;
+    width: 95%;
   }
   
